@@ -4,6 +4,7 @@ public class BlaBla {
     int a= 2;
     int b= 3;
     int c;
+    int d;
     c = a++ - ++b;
         System.out.println(c);
 
